@@ -1,14 +1,26 @@
-### Hi there 👋
+# Data Scientist & ML Engineer
+
+## Interests
+
+Machine Learning • Deep Learning • Time Series Analysis • Anomaly Detection • Forecasting • Clean Code • Knowledge Sharing 
 
 
-<!-- **akrstova/AKrstova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
 
-Here are some ideas to get you started: -->
+**E-Mail:** [krstova.alisa@gmail.com](mailto:krstova.alisa@gmail.com)
 
-My name is Alisa and I'm an AI/ML Software Engineer.
+**Social Media:**
 
-👩🏼‍💻&nbsp; My main focus area is time series processing (forecasting and anomaly detection), but I'm also interested in NLP and knowledge representation and reasoning (e.g. knowledge graphs and graph neural networks). <br>
-🤝 &nbsp;I’m open to collaborating on any exciting open source project related to any of the topics mentioned above. <br>
-✉️ &nbsp;My Linkedin profile: www.linkedin.com/in/alisakrstova
-<!-- - 💡 Fun fact: I love space engineering!
- -->
+<a href="www.linkedin.com/in/alisakrstova" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="alisa" height="40"/></a>
+
+---
+
+## Tech Stack
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="code" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="55" height="55"/> 
+</p>
