@@ -2,7 +2,7 @@
 
 ## Interests
 
-Machine Learning • Deep Learning • Time Series Analysis • Anomaly Detection • Forecasting • Clean Code • Knowledge Sharing 
+Machine Learning • Deep Learning • Time Series Analysis • Anomaly Detection • Forecasting • Knowledge Graphs • Graph Neural Networks
 
 
 ## Contact
